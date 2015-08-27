@@ -1,7 +1,4 @@
 ﻿using ServiceStack.ServiceInterface;
-using System.IO;
-using System.Speech.AudioFormat;
-using System.Speech.Synthesis;
 using TTSService.ServiceInterface;
 using TTSService.ServiceModel.Helpers;
 
